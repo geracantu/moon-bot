@@ -19,7 +19,7 @@ The output is a short Markdown report. You can run it whenever you like. The cal
 
 ## Run it on GitHub
 
-After this pull request is merged, open the **Actions** tab, select **Moon over Monterrey**, then click **Run workflow** to try it. Open that run to see the report under **Summary**, or expand the "Write today's moon report" step for the plain output. GitHub will also schedule it every day at 19:17 UTC (1:17 PM Monterrey time). GitHub schedules can be late or occasionally skipped, and inactivity can disable schedules in public repos after 60 days.
+To try it now, open the **Actions** tab, select **Moon over Monterrey**, then click **Run workflow** to try it. Open that run to see the report under **Summary**, or expand the "Write today's moon report" step for the plain output. GitHub will also schedule it every day at 19:17 UTC (1:17 PM Monterrey time). GitHub schedules can be late or occasionally skipped, and inactivity can disable schedules in public repos after 60 days.
 
 This first version **does not send a text, email, or notification**. The daily report stays in GitHub Actions. No account secrets or API keys are needed. If you want it sent to you later, we can add a delivery method after you choose where it should go.
 
